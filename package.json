@@ -1,0 +1,16 @@
+{
+  "name": "unit-tests-exercise",
+  "version": "1.0.0",
+  "description": "test",
+  "license": "ISC",
+  "author": "Boyan Venkov",
+  "type": "module",
+  "main": "evenOrOdd.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5"
+  }
+}
